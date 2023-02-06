@@ -1,0 +1,12 @@
+C:\Users\mrq_q\source\repos\StudentPaymentSystem\StudentPaymentSystem\bin\Debug\StudentPaymentSystem.exe.config
+C:\Users\mrq_q\source\repos\StudentPaymentSystem\StudentPaymentSystem\bin\Debug\StudentPaymentSystem.exe
+C:\Users\mrq_q\source\repos\StudentPaymentSystem\StudentPaymentSystem\bin\Debug\StudentPaymentSystem.pdb
+C:\Users\mrq_q\source\repos\StudentPaymentSystem\StudentPaymentSystem\obj\Debug\StudentPaymentSystem.Form1.resources
+C:\Users\mrq_q\source\repos\StudentPaymentSystem\StudentPaymentSystem\obj\Debug\StudentPaymentSystem.Properties.Resources.resources
+C:\Users\mrq_q\source\repos\StudentPaymentSystem\StudentPaymentSystem\obj\Debug\StudentPaymentSystem.csproj.GenerateResource.Cache
+C:\Users\mrq_q\source\repos\StudentPaymentSystem\StudentPaymentSystem\obj\Debug\StudentPaymentSystem.csproj.CoreCompileInputs.cache
+C:\Users\mrq_q\source\repos\StudentPaymentSystem\StudentPaymentSystem\obj\Debug\StudentPaymentSystem.exe
+C:\Users\mrq_q\source\repos\StudentPaymentSystem\StudentPaymentSystem\obj\Debug\StudentPaymentSystem.pdb
+C:\Users\mrq_q\source\repos\StudentPaymentSystem\StudentPaymentSystem\bin\Debug\PaymentSystem.mdb
+C:\Users\mrq_q\source\repos\StudentPaymentSystem\StudentPaymentSystem\obj\Debug\StudentPaymentSystem.csproj.AssemblyReference.cache
+C:\Users\mrq_q\source\repos\StudentPaymentSystem\StudentPaymentSystem\obj\Debug\StudentPaymentSystem.csproj.SuggestedBindingRedirects.cache
